@@ -16,7 +16,6 @@ install bidict and keyboard.
 
 Instructions and Notes
 ------------------------
-- server.py needs to be run first
 - Username and passwords cannot contain any whitespace
 - You cannot send a message to yourself
 - A single account cannot be logged into multiple clients (i.e. terminals)
